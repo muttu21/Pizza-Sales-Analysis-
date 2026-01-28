@@ -28,6 +28,13 @@ Create a line chart that illustrates the hourly trend of total orders throughout
 Create a pie chart that shows the distribution of sales across different pizza categories. This chart
 will provide  insights into popularity and their contribution to overall sales
 
+## PowerBI Dashboard
+<img width="1222" height="628" alt="Screenshot 2026-01-28 210510" src="https://github.com/user-attachments/assets/7c7f5962-ed6d-4edd-93d1-31359c0a9147" />
+### Best/Worst Sellers
+<img width="1222" height="627" alt="Screenshot 2026-01-28 210536" src="https://github.com/user-attachments/assets/4c7b4105-c52b-4654-8db2-11906c0101d0" />
+
+
+
 
 
 
