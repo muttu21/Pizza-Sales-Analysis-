@@ -32,7 +32,8 @@ will provide  insights into popularity and their contribution to overall sales
 <img width="1222" height="628" alt="Screenshot 2026-01-28 210510" src="https://github.com/user-attachments/assets/7c7f5962-ed6d-4edd-93d1-31359c0a9147" />
 
 <img width="1222" height="627" alt="Screenshot 2026-01-28 210536" src="https://github.com/user-attachments/assets/4c7b4105-c52b-4654-8db2-11906c0101d0" />
-## **Excel Dashboard**
+<br/>
+## Excel Dashboard
 <img width="797" height="429" alt="Screenshot 2026-01-28 221055" src="https://github.com/user-attachments/assets/7a000ec8-de21-4aac-a4ad-4dff405828a5" />
 
 
