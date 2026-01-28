@@ -2,7 +2,7 @@
 This comprehensive project covers the end-to-end data analytics process for a pizza sales dataset, utilizing tools such as SQL, Power BI, Python, Excel
 
 
-## KPIS 
+# KPIS 
 We need to analyze key indicators for our pizza sales data to gain insights into our performance. We want to calculate the following metrics 
 1.Total Revenue- The sum of the total price of all pizzas
 
