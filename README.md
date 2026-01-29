@@ -199,9 +199,19 @@ will provide  insights into popularity and their contribution to overall sales
 
 --
 ## Bottom 5 Pizzas by Total Pizzas 
-<img width="626" height="792" alt="image" src="https://github.com/user-attachments/assets/35c3e6fc-8757-4adb-a72a-5611e40a9420" />
+<img width="599" height="794" alt="image" src="https://github.com/user-attachments/assets/b678208b-5dec-48ba-b602-02d3aa84aa90" />
+
 
 --
+## Bottom 5 selling Pizzas by Total Orders
+<img width="617" height="801" alt="image" src="https://github.com/user-attachments/assets/05404920-b6bc-42e0-ad37-814b20e6e823" />
+
+--
+## Bottom 5 pizzas by quantity 
+<img width="605" height="802" alt="image" src="https://github.com/user-attachments/assets/27b2f02d-fea8-42b0-99b4-aeb37da74bbd" />
+
+
+
 
 
 
