@@ -116,54 +116,11 @@ will provide  insights into popularity and their contribution to overall sales
 
 ## ----Using Python
 ## importing all required libraries
-<img width="351" height="148" alt="image" src="https://github.com/user-attachments/assets/f51299e6-5fb7-44bf-bb00-7df89e1e1202" />
----
-## Importing Data
-## df = pd.read_excel(r"D:\pizza_sales_excel_file.xlsx")
-## Metadata of data
-## df.head()
-<img width="1317" height="293" alt="image" src="https://github.com/user-attachments/assets/1cabfa18-dc74-45f9-bc5d-d73f85cfc278" />
---
-## df.tail()
-<img width="1336" height="289" alt="image" src="https://github.com/user-attachments/assets/9b92a4fb-9352-49da-950c-01329922851d" />
---
-<img width="803" height="489" alt="image" src="https://github.com/user-attachments/assets/2eb71489-6452-4f39-aeef-8bcddce8fc0d" />
---
-<img width="1058" height="723" alt="image" src="https://github.com/user-attachments/assets/690af0cb-e9c0-4491-8364-6a6ec63a96f8" />
---
-## Data Type
-<img width="1107" height="735" alt="image" src="https://github.com/user-attachments/assets/12e7c581-48d9-4250-b34b-becf1c03eb9f" />
---
-## KPIS
-<img width="735" height="446" alt="image" src="https://github.com/user-attachments/assets/c00a7c36-880b-45a8-a809-6a22b634e74b" />
---
-## CHARTS
-<img width="428" height="616" alt="image" src="https://github.com/user-attachments/assets/024b75cd-6903-4928-98f8-904d74249eaf" />
---
-## Daily trend orders
-<img width="576" height="736" alt="image" src="https://github.com/user-attachments/assets/50fecfe4-2772-4ec1-91a1-a5cc894053ea" />
---
-<img width="684" height="423" alt="image" src="https://github.com/user-attachments/assets/7d3ded09-802b-4174-8386-81541f7e9847" />
---
-## Daily Trend Total Revenue 
-<img width="537" height="711" alt="image" src="https://github.com/user-attachments/assets/e2281a80-d777-4bf4-a8d3-c4f57429f8d0" />
---
-<img width="685" height="423" alt="image" src="https://github.com/user-attachments/assets/8c6b4bf3-e180-4c16-93dc-756ce86bcb98" />
---
-## Hourly Trend Orders
-<img width="565" height="547" alt="image" src="https://github.com/user-attachments/assets/582fc01e-c7fe-4806-88e1-20270084e16e" />
---
-<img width="859" height="420" alt="image" src="https://github.com/user-attachments/assets/91ccdd51-d320-42ec-9ca8-136cb891fc5b" />
---
-## Hourly Trend Total Revenue 
-<img width="583" height="562" alt="image" src="https://github.com/user-attachments/assets/cb45ea5d-9657-488f-993a-23686d2737e0" />
---
-<img width="857" height="420" alt="image" src="https://github.com/user-attachments/assets/4aee191c-bf61-4639-a0c1-22c387c6cb2e" />
---
-## MOnthly trend total orders
---
 
---
+
+
+
+
 
 
 
