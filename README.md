@@ -116,6 +116,119 @@ will provide  insights into popularity and their contribution to overall sales
 
 ## ----Using Python
 ## importing all required libraries
+<img width="232" height="113" alt="image" src="https://github.com/user-attachments/assets/74f273b9-1531-4a96-b225-d80653939010" />
+
+--
+## Import Data
+<img width="387" height="33" alt="image" src="https://github.com/user-attachments/assets/c5f6d8a6-fde7-4450-9234-347c2a4bf4f7" />
+
+--
+## Metadata of data 
+<img width="1297" height="700" alt="image" src="https://github.com/user-attachments/assets/10a07934-1d82-40f8-b79c-668c1fb4e7e3" />
+<img width="708" height="710" alt="image" src="https://github.com/user-attachments/assets/82e6e634-438e-44fe-be51-d8467abc736e" />
+
+--
+## Data Types
+<img width="733" height="605" alt="image" src="https://github.com/user-attachments/assets/7e83502e-b4ac-43eb-8776-73f2317ba244" />
+
+--
+## KPIs
+<img width="491" height="358" alt="image" src="https://github.com/user-attachments/assets/85f9e4e4-73d4-4bea-9560-7e97df9a59ce" />
+
+--
+## Charts 
+## Ingriedent analysis
+<img width="359" height="517" alt="image" src="https://github.com/user-attachments/assets/39c8d13c-672e-4e25-9df2-705f174cc004" />
+
+--
+## Daily Trend orders
+<img width="554" height="756" alt="image" src="https://github.com/user-attachments/assets/6a6ef787-da2f-4066-ab15-0cb9f2efccf6" />
+<img width="683" height="421" alt="image" src="https://github.com/user-attachments/assets/5701cba0-8840-49f1-b89f-5b3e711d6bca" />
+
+
+--
+## Daily Trend Total Revenue
+<img width="582" height="704" alt="image" src="https://github.com/user-attachments/assets/f56e584f-853f-4c34-8b9f-34dad8186a99" />
+<img width="685" height="426" alt="image" src="https://github.com/user-attachments/assets/6001cf6f-d2b2-4932-bc8c-2dd9827ab210" />
+
+--
+## Hourly Trend for total orders
+<img width="578" height="565" alt="image" src="https://github.com/user-attachments/assets/f230855c-8d70-48a4-8436-409336e74873" />
+<img width="855" height="425" alt="image" src="https://github.com/user-attachments/assets/9f4caa35-2e51-411c-b0ae-4373448c2a3c" />
+
+--
+## Hourly Trend Total Revenue 
+<img width="598" height="566" alt="image" src="https://github.com/user-attachments/assets/3c662eaf-f8d4-4fc4-a94a-95873dec0f71" />
+<img width="858" height="422" alt="image" src="https://github.com/user-attachments/assets/1076b5f9-e4d6-47f3-a48d-06a2be78f493" />
+
+--
+## Monthly Trend for Total Orders
+<img width="641" height="844" alt="image" src="https://github.com/user-attachments/assets/5018550b-5534-4756-aa36-382d99fbd380" />
+<img width="860" height="424" alt="image" src="https://github.com/user-attachments/assets/f34a1011-e43c-43a7-80dc-b2fbafefed17" />
+
+ --
+## Monthly Trend for Total Revenue 
+<img width="520" height="730" alt="image" src="https://github.com/user-attachments/assets/20b201c2-881e-4f5f-8dcd-fec0cc867f0c" />
+<img width="715" height="353" alt="image" src="https://github.com/user-attachments/assets/cc75e20d-f961-475a-aa0e-370fcb88cf71" />
+
+--
+## % of Sales Category 
+<img width="452" height="657" alt="image" src="https://github.com/user-attachments/assets/53f564c8-1c03-4014-b230-c5c80d44e435" />
+
+--
+## % of Sales by Pizza and Category
+
+<img width="616" height="800" alt="image" src="https://github.com/user-attachments/assets/ae29d31a-cb38-4cb1-b12b-6ad7db9cf3bf" />
+
+--
+## Total Pizzas Sold by Cateogry 
+<img width="666" height="838" alt="image" src="https://github.com/user-attachments/assets/5c8fe0d8-b07d-4170-8297-adee3ff88765" />
+
+--
+## Top 5 best selling pizzas by total quantity 
+
+<img width="576" height="804" alt="image" src="https://github.com/user-attachments/assets/928cc602-adcc-435b-bf6a-affb2cd9a4b1" />
+
+--
+## Top 5 best selling pizzas by total orders
+<img width="598" height="801" alt="image" src="https://github.com/user-attachments/assets/8f057e88-7f53-4069-ac7f-0b691184e791" />
+
+--
+## Top 5 best selling pizzas by total sales
+<img width="626" height="792" alt="image" src="https://github.com/user-attachments/assets/10dac216-6571-4e92-a57e-a71a39cc5844" />
+
+--
+## Bottom 5 Pizzas by Total Pizzas 
+<img width="626" height="792" alt="image" src="https://github.com/user-attachments/assets/35c3e6fc-8757-4adb-a72a-5611e40a9420" />
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
